@@ -8,8 +8,8 @@ S.Y. B.Tech. Artificial Intelligence and Data Science
 
 👨‍🎓 Student Information
 
-👤 Student Name: soham Mahadeo Nagdeve 
-🆔 ZPRN: 125UAD1323
+👤 Student Name: Swastik Harishchandra kokate
+🆔 ZPRN: 125UAD1185
 🏫 Class / Division: S.Y. B-Tech (Div: B)
 📚 Course Name: Object-Oriented Programming with C++
 🔢 Course Code: ADPC303

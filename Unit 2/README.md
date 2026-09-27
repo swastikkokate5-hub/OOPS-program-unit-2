@@ -2,9 +2,9 @@ Object-Oriented Programming with C++ – Unit II
 
  Student Details
 
-- Student Name: Soham Nagdeve 
-- PRN:125UAD1323
-- Class/Division:S.Y Btech Div:B( AIDS)
+- Student Name: Swastik Harishchandra kokate
+- PRN: 125UAD1185
+- Class/Division: S.Y Btech Div:B (AIDS)
 - Course Name: Object-Oriented Programming with C++
 - Course Code: ADPC303
 - Programme: S.Y. B.Tech. Artificial Intelligence and Data Science
